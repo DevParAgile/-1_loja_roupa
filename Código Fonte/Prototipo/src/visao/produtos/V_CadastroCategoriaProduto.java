@@ -5,7 +5,6 @@
  */
 package visao.produtos;
 
-import visao.clientes_fornecedores.*;
 
 /**
  *
