@@ -3,16 +3,26 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/samue/Desktop/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/produtos/V_CadastroProduto.java</file>
-            <file>file:/C:/Users/samue/Desktop/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/financeiro/caixa/V_AbrirCaixa.java</file>
-            <file>file:/C:/Users/samue/Desktop/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/clientes_fornecedores/V_CadastroCliente.java</file>
-            <file>file:/C:/Users/samue/Desktop/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/financeiro/conta/V_LancarMovimento.java</file>
-            <file>file:/C:/Users/samue/Desktop/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/clientes_fornecedores/V_CadastroFornecedor.java</file>
-            <file>file:/C:/Users/samue/Desktop/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/produtos/V_CadastroCategoriaProduto.java</file>
-            <file>file:/C:/Users/samue/Desktop/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/vendas/V_CadastroFormaPagamento.java</file>
-            <file>file:/C:/Users/samue/Desktop/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/financeiro/conta/V_CadastroConta.java</file>
-            <file>file:/C:/Users/samue/Desktop/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/financeiro/caixa/V_FecharCaixa.java</file>
-            <file>file:/C:/Users/samue/Desktop/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/vendas/V_Venda.java</file>
+            <file>file:/C:/Users/samue/Desktop/Git/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/V_Principal.java</file>
+            <file>file:/C:/Users/samue/Desktop/Git/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/produtos/V_CadastroProduto.java</file>
+            <file>file:/C:/Users/samue/Desktop/Git/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/vendas/V_CadastroFormaPagamento.java</file>
+            <file>file:/C:/Users/samue/Desktop/Git/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/clientes_fornecedores/PesquisaFornecedor.java</file>
+            <file>file:/C:/Users/samue/Desktop/Git/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/vendas/caixa/MenuCaixa.java</file>
+            <file>file:/C:/Users/samue/Desktop/Git/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/produtos/CadastroProduto.java</file>
+            <file>file:/C:/Users/samue/Desktop/Git/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/financeiro/V_CadastroCategoriaMovimento.java</file>
+            <file>file:/C:/Users/samue/Desktop/Git/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/produtos/PesquisaProdutos.java</file>
+            <file>file:/C:/Users/samue/Desktop/Git/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/vendas/V_Venda.java</file>
+            <file>file:/C:/Users/samue/Desktop/Git/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/vendas/caixa/V_FecharCaixa.java</file>
+            <file>file:/C:/Users/samue/Desktop/Git/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/clientes_fornecedores/CadastroCliente.java</file>
+            <file>file:/C:/Users/samue/Desktop/Git/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/clientes_fornecedores/CadastroFornecedor.java</file>
+            <file>file:/C:/Users/samue/Desktop/Git/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/produtos/CadastroCategoriaProduto.java</file>
+            <file>file:/C:/Users/samue/Desktop/Git/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/vendas/caixa/V_AbrirCaixa.java</file>
+            <file>file:/C:/Users/samue/Desktop/Git/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/clientes_fornecedores/PesquisaCliente.java</file>
+            <file>file:/C:/Users/samue/Desktop/Git/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/financeiro/V_LancarMovimento.java</file>
+            <file>file:/C:/Users/samue/Desktop/Git/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/produtos/V_CadastroCategoriaProduto.java</file>
+            <file>file:/C:/Users/samue/Desktop/Git/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/financeiro/V_GerenciarMovimentos.java</file>
+            <file>file:/C:/Users/samue/Desktop/Git/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/vendas/MenuVendas.java</file>
+            <file>file:/C:/Users/samue/Desktop/Git/DevPar%20Agile/Projetos/-1_loja_roupa/Código%20Fonte/Prototipo/src/visao/financeiro/V_CadastroConta.java</file>
         </group>
     </open-files>
 </project-private>

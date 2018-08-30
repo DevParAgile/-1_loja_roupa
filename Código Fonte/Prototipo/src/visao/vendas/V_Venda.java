@@ -5,6 +5,8 @@
  */
 package visao.vendas;
 
+import javax.swing.JFrame;
+
 /**
  *
  * @author samue
@@ -16,6 +18,9 @@ public class V_Venda extends javax.swing.JFrame {
      */
     public V_Venda() {
         initComponents();
+        this.setDefaultCloseOperation(DISPOSE_ON_CLOSE);
+        this.setLocationRelativeTo(null); //abre centralizada
+        setExtendedState(JFrame.MAXIMIZED_BOTH);
     }
 
     /**
